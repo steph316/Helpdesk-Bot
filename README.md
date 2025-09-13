@@ -67,30 +67,54 @@ Access the application
 
 Open your browser to http://localhost:5000
 Click "Start Chat" to begin troubleshooting
+
+
 📁 Project Structure
 
 it-helpdesk-bot/
+
 ├── app.py                 # Main Flask application
+
 ├── config.py              # Configuration settings
+
 ├── requirements.txt       # Python dependencies
+
 ├── env.example           # Environment variables template
+
 ├── chat.db               # SQLite database (created automatically)
+
 ├── modules/              # Core application modules
+
 │   ├── __init__.py
+
 │   ├── chat_handler.py   # GPT-4o integration
+
 │   ├── system_commands.py # Command execution
+
 │   ├── os_detector.py    # OS detection
+
 │   ├── network_tools.py  # Network diagnostics
+
 │   └── security.py       # Security validation
+
 ├── static/               # Static assets
+
 │   ├── css/
+
 │   │   └── style.css     # Custom styles
+
 │   └── js/
+
 │       └── main.js       # Common JavaScript
+
 ├── templates/            # HTML templates
+
 │   ├── base.html         # Base template
+
 │   ├── index.html        # Home page
+
 │   └── chat.html         # Chat interface
+
 └── tests/               # Test files
     └── test_basic.py     # Basic tests
 🔧 Configuration

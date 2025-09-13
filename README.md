@@ -55,10 +55,10 @@ git clone <repository-url>
 cd it-helpdesk-bot
 Install dependencies
 
-pip install -r requirements.txt
+pip/pip3 install -r requirements.txt
 Configure environment
 
-cp env.example .env
+create file .env 
 # Edit .env with your OpenAI API key
 Run the application
 

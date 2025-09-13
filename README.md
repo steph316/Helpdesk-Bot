@@ -48,23 +48,28 @@ Prerequisites
 Python 3.8 or higher
 OpenAI API key
 Internet connection
+
 Installation
 
-Clone the repository
+1. Clone the repository
 
 git clone <repository-url>
 cd it-helpdesk-bot
-Install dependencies
+
+2. Install dependencies
 
 pip/pip3 install -r requirements.txt
-Configure environment
+
+3. Configure environment
 
 create file .env 
 # Edit .env with your OpenAI API key
-Run the application
+
+4. Run the application
 
 python app.py
-Access the application
+
+5. Access the application
 
 Open your browser to http://localhost:5000
 Click "Start Chat" to begin troubleshooting

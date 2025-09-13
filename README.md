@@ -9,6 +9,7 @@ An intelligent IT support bot powered by GPT-4o that provides real-time troubles
 GPT-4o Integration: Advanced natural language processing for understanding IT issues
 Intelligent Responses: Context-aware troubleshooting guidance
 Multi-step Solutions: Step-by-step problem resolution
+
 🔒 Secure Command Execution
 
 Command Whitelisting: Only safe diagnostic commands allowed
@@ -193,6 +194,7 @@ ping google.com - Test internet connectivity
 ipconfig - View network configuration
 systeminfo - Get detailed system information
 tasklist - List running processes
+
 🔍 Troubleshooting
 
 Common Issues
@@ -217,6 +219,7 @@ Debug Mode
 Enable debug mode for detailed logging:
 
 FLASK_DEBUG=True
+
 🧪 Testing
 
 Run basic tests:

@@ -39,6 +39,7 @@ Real-time Chat: WebSocket-powered instant messaging
 Responsive Design: Works on desktop and mobile
 Typing Indicators: Visual feedback during processing
 Quick Actions: One-click common diagnostics
+
 🚀 Quick Start
 
 Prerequisites

@@ -75,6 +75,8 @@ Open your browser to http://localhost:5000
 Click "Start Chat" to begin troubleshooting
 
 
+
+
 📁 Project Structure
 
 it-helpdesk-bot/

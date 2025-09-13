@@ -63,7 +63,7 @@ pip/pip3 install -r requirements.txt
 3. Configure environment
 
 create file .env 
-# Edit .env with your OpenAI API key
+Add Your OpenAI API key
 
 4. Run the application
 
